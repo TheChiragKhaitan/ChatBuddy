@@ -36,4 +36,10 @@ ChatBuddy is a real-time chat application built using Next.js 14, Tailwind CSS, 
 
 <img src="public/ChatBuddy.png" />
 
-Happy chatting in ChatBuddy! 🚀
+## Contributing
+
+Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request. 
+
+## Contact
+- Email: chiragkhaitan2014@gmail.com
+- Linkedin: https://www.linkedin.com/in/chirag-khaitan
