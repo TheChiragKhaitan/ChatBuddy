@@ -34,6 +34,6 @@ ChatBuddy is a real-time chat application built using Next.js 14, Tailwind CSS, 
 
 ## Project MAP
 
-<img src="public/FriendZone.png" />
+<img src="public/ChatBuddy.png" />
 
 Happy chatting in ChatBuddy! 🚀
