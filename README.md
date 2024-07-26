@@ -10,7 +10,7 @@ ChatBuddy is a real-time chat application built using Next.js 14, Tailwind CSS, 
 
 -   **Next.js 14:** The application is built on the latest version of Next.js, leveraging its powerful features for server-side rendering and routing.
 
--   **Tailwind CSS:** Provides a utility-first CSS framework for styling the frontend, ensuring a clean and responsive design.
+-   **Tailwind CSS & ShadcnUi:** Provides a utility-first CSS framework for styling the frontend, ensuring a clean and responsive design.
 
 ## Features
 
